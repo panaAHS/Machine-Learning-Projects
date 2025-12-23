@@ -6,3 +6,4 @@
 - [Assignment 5](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_5.ipynb): Case Based Learning - K Nearest Neighbors (KNN)
 - [Assignment 6](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_6(1).ipynb): Data Engineering
 - [Assignment 7](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_7.ipynb): SVM - Bayes
+- [Assignment 8](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_8.ipynb): Neural Networks
