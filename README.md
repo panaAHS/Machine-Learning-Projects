@@ -8,3 +8,6 @@
 - [Assignment 7](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_7.ipynb): SVM - Bayes
 - [Assignment 8](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_8.ipynb): Neural Networks
 - [Assignment 9](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_9.ipynb): Reinforcement Learning
+
+- [Assignment 11](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/Poverty_Prediction_Project.ipynb): Poverty Prediction Project
+
