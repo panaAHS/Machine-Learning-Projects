@@ -9,5 +9,5 @@
 - [Assignment 8](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_8.ipynb): Neural Networks
 - [Assignment 9](https://github.com/panaAHS/Machine-Learning-Projects/blob/main/ML_Assignment_9.ipynb): Reinforcement Learning
 
-- [Assignment 11](https://github.com/panaAHS/Machine-Learning-Projects/tree/main/Poverty Prediction Project%20): Poverty Prediction Project
+- [Assignment 11](https://github.com/panaAHS/Machine-Learning-Projects/tree/main/Poverty%20Prediction%20Project%20): Poverty Prediction Project
 
